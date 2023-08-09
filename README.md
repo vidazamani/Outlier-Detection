@@ -4,4 +4,4 @@
 * Clustering-Base Approaches, 
 * Outlier Ensembles,
 * and Angle - Based – OutlierDetection (ABOD).
-## For this purpose, the [pendigits] dataset was used.
+## For this purpose, the [pendigits](pendigits.mat) dataset was used.
