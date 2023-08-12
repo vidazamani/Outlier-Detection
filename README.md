@@ -22,3 +22,4 @@ X = pd.DataFrame(val_list[3])
 y = pd.DataFrame(val_list[4])
 ```
 
+Note: <a href="https://www.freepik.com/free-photo/golden-egg-with-white-eggs_8020876.htm#query=different&from_query=outlier&position=8&from_view=search&track=sph">Image by valeria_aksakova</a> on Freepik is used for the social media preview image of this repository 
